@@ -1,0 +1,22 @@
+{
+  "name": "trillo",
+  "version": "1.0.0",
+  "description": "landing page for trillo app",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/styles.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmadBitarV/trillo-app.git"
+  },
+  "author": "Ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmadBitarV/trillo-app/issues"
+  },
+  "homepage": "https://github.com/AhmadBitarV/trillo-app#readme",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
